@@ -1,5 +1,7 @@
 
 # Business Sales Performance Analytics Dashboard
+## Internship Context
+This project was completed as part of the Data Science & Analytics Internship at Future Interns.
 
 ## Overview
 This project analyzes business sales performance using Power BI. The dashboard provides insights into sales trends, holiday sales impact, store performance, and unemployment analysis.
